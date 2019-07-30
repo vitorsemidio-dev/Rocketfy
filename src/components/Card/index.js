@@ -7,9 +7,9 @@ export default function Card() {
     <Container>
       <header>
         <Label color="#7159c1" />
-        <p>Fazer uma aplicacao para listar playlists</p>
-        <img src="https://api.adorable.io/avatars/136/abott@adorable.pngCo" alt="Imagem de Perfil"></img>
       </header>
+      <p>Fazer uma aplicacao para listar playlists</p>
+      <img src="https://api.adorable.io/avatars/136/abott@adorable.pngCo" alt="Imagem de Perfil"></img>
     </Container>
   );
 }
